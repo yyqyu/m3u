@@ -1,0 +1,502 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视频道",CCTV-1综合
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="央视频道",CCTV-2财经
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8?
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="央视频道",CCTV-3综艺
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226471/1.m3u8?
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="央视频道",CCTV-4中文国际
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="央视频道",CCTV-5体育
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226469/1.m3u8?
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="央视频道",CCTV-5+体育赛事
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="央视频道",CCTV-6电影
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226468/1.m3u8?
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="央视频道",CCTV-7国防军事
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226946/1.m3u8?
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png" group-title="央视频道",CCTV-8电视剧
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226485/1.m3u8?
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="央视频道",CCTV-9纪录
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/1.m3u8?
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.cn/tv/CCTV10.png" group-title="央视频道",CCTV-10科教
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226937/1.m3u8?
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.cn/tv/CCTV11.png" group-title="央视频道",CCTV-11戏曲
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226334/1.m3u8?
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.cn/tv/CCTV12.png" group-title="央视频道",CCTV-12社会与法
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226942/1.m3u8?
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png" group-title="央视频道",CCTV-13新闻
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8?
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png" group-title="央视频道",CCTV-14少儿
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8?
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png" group-title="央视频道",CCTV-15音乐
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8?
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="央视频道",CCTV-16奥林匹克
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="央视频道",CCTV-17农业农村
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png" group-title="央视频道",CGTN英语
+https://0472.org/hls/cgtn.m3u8
+#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.cn/tv/CGTN纪录.png" group-title="央视频道",CGTN记录
+https://0472.org/hls/cgtnd.m3u8
+#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.cn/tv/CGTN俄语.png" group-title="央视频道",CGTN俄语
+https://0472.org/hls/cgtne.m3u8
+#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://live.fanmingming.cn/tv/CGTN法语.png" group-title="央视频道",CGTN法语
+https://0472.org/hls/cgtnf.m3u8
+#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://live.fanmingming.cn/tv/CGTN西语.png" group-title="央视频道",CGTN西语
+https://0472.org/hls/cgtnx.m3u8
+#EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿语.png" group-title="央视频道",CGTN阿语
+https://0472.org/hls/cgtna.m3u8
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.cn/tv/北京卫视.png" group-title="卫视频道",北京卫视
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226900/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcYPi33WFyhvd6SjmqUKhJg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://live.fanmingming.cn/tv/东方卫视.png" group-title="卫视频道",东方卫视
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226898/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0uh4lyjjBCCN7TCq21vSIQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://live.fanmingming.cn/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226899/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ETYfTgTra_pUx2cPrgZ_BDw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226897/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0BmO6uHF7WFoTed__Xr3NQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.cn/tv/广东卫视.png" group-title="卫视频道",广东卫视
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226961/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E2MGyx659D_aaDPP0qt3NgA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.cn/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226509/1.m3u8?zoneoffset=480&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EIGb_ib7rnBX9_sANRKq9sg%7EpK8OKM5JoJWWbLRyLfPcUMkwWZ90MzSI9S9PDltJsYzd0ZGcS3Tkh7syciNKJa-w60mDOdwtDyoNwCx9aRgzHNH9AUREV_qvNJtXHRPzYw0%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3D%3D%3A20221022013542%2C915973%2C119.123.71.209%2C20221022013542%2C10000100000000050000000003873458%2C915973%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000007253514_0%2CEND&GuardEncType=2
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226959/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EGrVNEZREjuNVKiTJo2mtwg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://live.fanmingming.cn/tv/四川卫视.png" group-title="卫视频道",四川卫视
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226995/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBQiz3wrGrpG0CUSRIJ-7Jg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.cn/tv/天津卫视.png" group-title="卫视频道",天津卫视
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226954/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eaf3wyULP1h575eM_4ByMDg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.cn/tv/辽宁卫视.png" group-title="卫视频道",辽宁卫视
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226966/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E6qJH8Fd-zgCGx3P-Ce86cA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226965/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7UiKL56-L86ihmTWaZ6csw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://live.fanmingming.cn/tv/吉林卫视.png" group-title="卫视频道",吉林卫视
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227015/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EW5-3AVdwD5KlUpuA4mz7Cg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.cn/tv/海南卫视.png" group-title="卫视频道",海南卫视
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227029/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EEuBMjt2kLMD8fAO7QYER7Q%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://live.fanmingming.cn/tv/广西卫视.png" group-title="卫视频道",广西卫视
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227010/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkAhb-89sxdm9fz6-heXCuw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://live.fanmingming.cn/tv/河北卫视.png" group-title="卫视频道",河北卫视
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227014/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ErSGjhI3DMaaAASPrbQJYTg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.cn/tv/山东卫视.png" group-title="卫视频道",山东卫视
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226957/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EjW26v5VaHGy1jQuIA-4EbA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://live.fanmingming.cn/tv/山西卫视.png" group-title="卫视频道",山西卫视
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227016/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ESb5Qr3NTpE2ZugIroKoyTw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.cn/tv/湖北卫视.png" group-title="卫视频道",湖北卫视
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226952/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EREB40lnZnCEwjRy7LZuhIQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://live.fanmingming.cn/tv/江西卫视.png" group-title="卫视频道",江西卫视
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226956/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ei6ZIpVizXlewg-YfGvH8dA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.cn/tv/重庆卫视.png" group-title="卫视频道",重庆卫视
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226963/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EjTXsJprEx2nE38tdvu5lhA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://live.fanmingming.cn/tv/东南卫视.png" group-title="卫视频道",东南卫视
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226991/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQ6F5Mjgs0tJyEArWFL3vQA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.cn/tv/陕西卫视.png" group-title="卫视频道",陕西卫视
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226999/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EsGLKaSqf0wDZMbAjeQtfyw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://live.fanmingming.cn/tv/青海卫视.png" group-title="卫视频道",青海卫视
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227017/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EacviHy_ucMT27Ymf2iLtZA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.cn/tv/安徽卫视.png" group-title="卫视频道",安徽卫视
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226943/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0QmKQ_slRCwvVVUUfxPVbw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://live.fanmingming.cn/tv/云南卫视.png" group-title="卫视频道",云南卫视
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227028/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EGfQPqRNVeBjTMsZ48qu0SA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://live.fanmingming.cn/tv/贵州卫视.png" group-title="卫视频道",贵州卫视
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227012/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EnqBF03rFwPucF8ODtWxLQQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://live.fanmingming.cn/tv/宁夏卫视.png" group-title="卫视频道",宁夏卫视
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227003/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ESco1zinvdUYzleEkXYhIvA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://live.fanmingming.cn/tv/甘肃卫视.png" group-title="卫视频道",甘肃卫视
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227020/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Err-CLugPnTcUinEM8JeySg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://live.fanmingming.cn/tv/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227018/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ErN_hoRDwApMKnJqiNHvn9w%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://live.fanmingming.cn/tv/新疆卫视.png" group-title="卫视频道",新疆卫视
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227011/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ExAUu61iVvo_xYbANWJhgXw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://live.fanmingming.cn/tv/西藏卫视.png" group-title="卫视频道",西藏卫视
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227033/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EdeTB7OZ9G_VNJk5C3t96fQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://live.fanmingming.cn/tv/延边卫视.png" group-title="卫视频道",延边卫视
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227045/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eq0D3NdTUN7FuRzr8eJsbQA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://live.fanmingming.cn/tv/康巴卫视.png" group-title="卫视频道",康巴卫视
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227027/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkHMvBpWz4rccMxNvSRekpQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 tvg-name="中国教育1台" tvg-logo="https://live.fanmingming.cn/tv/中国教育1台.png" group-title="卫视频道",中国教育1台
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8?
+#EXTINF:-1 tvg-name="中国教育2台" tvg-logo="https://live.fanmingming.cn/tv/中国教育2台.png" group-title="卫视频道",中国教育2台
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226537/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7AxXs4eTU2oiWrhopr9sHw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNxsM0Bor098BJglrhfEQTl%2CEND
+#EXTINF:-1 tvg-name="中国教育3台" tvg-logo="https://live.fanmingming.cn/tv/中国教育3台.png" group-title="卫视频道",中国教育3台
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226577/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EhE2Z89HKgsQOlN9opVn1iw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNN03yUnk4zBVk1bynPPL3hZ%2CEND
+#EXTINF:-1 tvg-name="中国教育4台" tvg-logo="https://live.fanmingming.cn/tv/中国教育4台.png" group-title="卫视频道",中国教育4台
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EAw_OvjRgJVjtlaOa0dcgzg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+#EXTINF:-1 group-title="港澳台",凤凰中文
+http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰中文台
+https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8?
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 group-title="港澳台",凤凰资讯
+https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 group-title="港澳台",澳门Macau
+http://61.244.22.4/ch3/ch3.live/index.m3u8
+#EXTINF:-1 group-title="港澳台",澳门Macau
+http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
+#EXTINF:-1 group-title="港澳台",澳门Macau
+http://61.244.22.4/ch2/ch2.live/playelist.m3u8
+#EXTINF:-1 group-title="港澳台",澳门Macau
+http://61.244.22.4/ch3/ch3.live/playelist.m3u8
+#EXTINF:-1 group-title="港澳台",澳门莲花
+http://anren.live/HK/BiIOU11uLA.m3u8
+#EXTINF:-1 group-title="港澳台",澳门葡语
+http://61.244.22.5/ch2/ch2.live/chunklist_w1632175875.m3u8
+#EXTINF:-1 group-title="港澳台",澳门葡语
+http://61.244.22.4/ch2/ch2.live/index.m3u8
+#EXTINF:-1 group-title="港澳台",澳门体育
+http://61.244.22.4/ch4/sport_ch4.live/master.m3u8
+#EXTINF:-1 group-title="港澳台",澳门体育 (720p)
+http://61.244.22.4/ch4/sport_ch4.live/playelist.m3u8
+#EXTINF:-1 group-title="港澳台",澳门卫视
+http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
+#EXTINF:-1 group-title="港澳台",澳门信息
+http://61.244.22.4/ch5/info_ch5.live/master.m3u8
+#EXTINF:-1 group-title="港澳台",澳门信息
+http://61.244.22.5/ch5/info_ch5.live/chunklist_w105010641.m3u8
+#EXTINF:-1 group-title="港澳台",澳门资讯
+http://61.244.22.4/ch5/info_ch5.live/chunklist_w1046558591.m3u8
+#EXTINF:-1 group-title="港澳台",澳门综艺
+http://61.244.22.4/ch6/_definst_/hd_ch6.live/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",澳门综艺
+http://61.244.22.4/ch6/hd_ch6.live/master.m3u8
+#EXTINF:-1 group-title="港澳台",澳视澳门
+http://61.244.22.5/ch1/ch1.live/playelist.m3u8
+#EXTINF:-1 group-title="港澳台",澳视澳门
+http://61.244.22.4/ch1/ch1.live/master.m3u8
+#EXTINF:-1 group-title="港澳台",澳视澳门 (720p) [Not 24/7]
+http://61.244.22.4/ch1/ch1.live/playelist.m3u8
+#EXTINF:-1 group-title="港澳台",澳视葡文
+http://61.244.22.4/ch2/ch2.live/chunklist_w1632175875.m3u8
+#EXTINF:-1 group-title="港澳台",澳视卫星 (720p) [Not 24/7]
+http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",澳亚卫视
+http://live.mastvnet.com:800/4rlff1m/live.m3u8
+#EXTINF:-1 group-title="港澳台",澳亚卫视
+http://live.mastvnet.com:800/4rlff1m/a/live.m3u8
+#EXTINF:-1 group-title="港澳台",澳亚卫视
+http://live.mastvnet.com:800/4rlff1m/1024/live.m3u8
+#EXTINF:-1 group-title="港澳台",澳亚卫视 [Not 24/7]
+http://live.mastvnet.com/4rlff1m/live.m3u8
+#EXTINF:-1 group-title="港澳台",大立电视台
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+#EXTINF:-1 group-title="港澳台",澳亚卫视
+https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
+#EXTINF:-1 group-title="港澳台",TVBS新闻
+http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
+#EXTINF:-1 group-title="港澳台",TVBS新闻
+http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
+#EXTINF:-1 group-title="港澳台",TVBS新闻
+http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",TVBS新闻
+http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+#EXTINF:-1 group-title="港澳台",TVBS新闻
+http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+#EXTINF:-1 group-title="港澳台",民视新闻 HD
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+#EXTINF:-1 group-title="港澳台",民视新闻 HD
+http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 group-title="港澳台",民视新闻 HD
+http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 group-title="港澳台",民视新闻 HD
+http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 group-title="港澳台",民视新闻 HD
+http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 group-title="港澳台",民视新闻 HD
+http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",民视新闻 HD
+http://tv.redrainl.site:9500/live.m3u8?c=01
+#EXTINF:-1 group-title="港澳台",民视新闻 HD
+http://tv.redrainl.site:9500/live.m3u8?c=1
+#EXTINF:-1 group-title="港澳台",台视新闻 HD
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+#EXTINF:-1 group-title="港澳台",台视新闻 HD
+http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1 group-title="港澳台",台视新闻 HD
+http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1 group-title="港澳台",台视新闻 HD
+http://tv.redrainl.site:9500/live.m3u8?c=11
+#EXTINF:-1 group-title="港澳台",台视新闻 HD
+https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
+#EXTINF:-1 group-title="港澳台",台视新闻 HD
+http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1 group-title="港澳台",台视新闻 HD
+http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1 group-title="港澳台",台视新闻 HD
+http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",中视新闻 HD
+http://tv.redrainl.site:9500/live.m3u8?c=02
+#EXTINF:-1 group-title="港澳台",中视新闻 HD
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+#EXTINF:-1 group-title="港澳台",中视新闻 HD
+https://ytm2.yuanhsing.cf/twctvnews.m3u8
+#EXTINF:-1 group-title="港澳台",三立iNEWS
+http://tv.redrainl.site:9500/live.m3u8?c=51
+#EXTINF:-1 group-title="港澳台",三立iNEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+#EXTINF:-1 group-title="港澳台",三立iNEWS
+https://ytm2.yuanhsing.cf/setmoney159.m3u8
+#EXTINF:-1 group-title="港澳台",三立NEWS+
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+#EXTINF:-1 group-title="港澳台",三立NEWS+
+https://ytm2.yuanhsing.cf/SETLIVE.m3u8
+#EXTINF:-1 group-title="港澳台",寰宇新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+#EXTINF:-1 group-title="港澳台",寰宇新闻
+https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8
+#EXTINF:-1 group-title="港澳台",镜新闻Mnews
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
+#EXTINF:-1 group-title="港澳台",镜新闻Mnews
+https://ytm2.yuanhsing.cf/mnews.m3u8
+#EXTINF:-1 group-title="港澳台",中天新闻
+http://tv.redrainl.site:9500/live.m3u8?c=3
+#EXTINF:-1 group-title="港澳台",东森財经 HD
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+#EXTINF:-1 group-title="港澳台",东森財经 HD
+https://ytm2.yuanhsing.cf/EBCFinancial.m3u8
+#EXTINF:-1 group-title="港澳台",原住民族电视台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8
+#EXTINF:-1 group-title="港澳台",TVBS亞洲
+http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",TVBS亞洲
+http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+#EXTINF:-1 group-title="港澳台",TVBS亞洲
+http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+#EXTINF:-1 group-title="港澳台",中视 HD
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
+#EXTINF:-1 group-title="港澳台",东森超视34.5
+http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+#EXTINF:-1 group-title="港澳台",东森购物2
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
+#EXTINF:-1 group-title="港澳台",东森购物3
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
+#EXTINF:-1 group-title="港澳台",华视综合娱乐
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
+#EXTINF:-1 group-title="港澳台",华视综合娱乐
+https://ytm2.yuanhsing.cf/ctsprog.m3u8
+#EXTINF:-1 group-title="港澳台",The K-POP
+https://git.io/JgYAE
+#EXTINF:-1 group-title="港澳台",The K-POP
+https://ytm2.yuanhsing.cf/TheKPOP.m3u8
+#EXTINF:-1 group-title="港澳台",The K-POP2
+https://ytm2.yuanhsing.cf/TheKPOP2.m3u8
+#EXTINF:-1 group-title="港澳台",時尚台FTV
+http://80.94.54.42/fashiontv/stream/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",時尚台FTV
+http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+#EXTINF:-1 group-title="港澳台",時尚台FTV
+http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
+#EXTINF:-1 group-title="港澳台",時尚台FTV4K
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",MOMO購物1台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
+#EXTINF:-1 group-title="港澳台",MOMO購物2台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
+#EXTINF:-1 group-title="港澳台",Viva 美好購物1台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
+#EXTINF:-1 group-title="港澳台",Viva 美好購物2台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
+#EXTINF:-1 group-title="港澳台",EF运通
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
+#EXTINF:-1 group-title="港澳台",人间卫视
+http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
+#EXTINF:-1 group-title="港澳台",人间卫视
+http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+#EXTINF:-1 group-title="港澳台",人间卫视
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",大爱1台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8
+#EXTINF:-1 group-title="港澳台",大爱1台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV48.m3u8
+#EXTINF:-1 group-title="港澳台",大爱1台
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 group-title="港澳台",大爱1台
+https://pulltv2.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 group-title="港澳台",大爱2台
+https://pulltv1.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 group-title="港澳台",大爱2台
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 group-title="港澳台",大爱2台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV47.m3u8
+#EXTINF:-1 group-title="港澳台",幸福空间居家台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
+#EXTINF:-1 group-title="港澳台",人间卫视
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
+#EXTINF:-1 group-title="港澳台",唯心電视
+http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+#EXTINF:-1 group-title="港澳台",唯心電视
+http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
+#EXTINF:-1 group-title="港澳台",台湾番薯台
+http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
+#EXTINF:-1 group-title="港澳台",台湾番薯台
+http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+#EXTINF:-1 group-title="港澳台",台湾番薯台
+http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+#EXTINF:-1 tvg-id="chinese" group-title="asia",tvg-logo="https://adultiptv.net/livecams/image.php?id=sc_127611815",fog-
+https://adultiptv.net/livecams/stream.php?id=sc_127611815
+https://b-hls-12.doppiocdn.live/hls/127611815/127611815_720p.m3u8
+#EXTINF:-1 tvg-id="chinese" group-title="asia",tvg-logo="https://adultiptv.net/livecams/image.php?id=sc_103721484",Lu_Nana. 
+https://adultiptv.net/livecams/stream.php?id=sc_103721484
+https://b-hls-12.doppiocdn.live/hls/103721484/103721484.m3u8
+#EXTINF:-1 tvg-id="chinese" group-title="asia",tvg-logo="https://adultiptv.net/livecams/image.php?id=sc_149668001",Monica-888
+https://adultiptv.net/livecams/stream.php?id=sc_149668001
+https://b-hls-18.doppiocdn.live/hls/149668001/149668001_720p.m3u8
+#EXTINF:-1 tvg-id="chinese" group-title="asia",tvg-logo="https://adultiptv.net/livecams/image.php?id=sc_95156140",xiaonan_0313
+https://adultiptv.net/livecams/stream.php?id=sc_95156140
+https://b-hls-20.doppiocdn.live/hls/95156140/95156140_720p.m3u8
+#EXTINF:-1 tvg-id="chinese" group-title="asia",tvg-logo="https://adultiptv.net/livecams/image.php?id=sc_167161789",-emma-999
+https://adultiptv.net/livecams/stream.php?id=sc_167161789
+https://b-hls-25.doppiocdn.live/hls/167161789/167161789_720p.m3u8
+#EXTINF:-1 tvg-id="chinese" group-title="asia",tvg-logo="https://adultiptv.net/livecams/image.php?id=sc_182739173",BellaCartee
+https://adultiptv.net/livecams/stream.php?id=sc_182739173
+https://b-hls-04.doppiocdn.live/hls/182739173/182739173_720p.m3u8
+#EXTINF:-1 tvg-id="chinese" group-title="asia",tvg-logo="https://adultiptv.net/livecams/image.php?id=sc_113151028",BSweet-18wanwan
+https://adultiptv.net/livecams/stream.php?id=sc_113151028
+https://b-hls-21.doppiocdn.live/hls/113151028/113151028.m3u8
+#EXTINF:-1 tvg-id="Japanese" group-title="asia",tvg-logo="https://adultiptv.net/livecams/image.php?id=sc_145404438",saya
+https://adultiptv.net/livecams/stream.php?id=sc_145404438
+#EXTINF:-1 tvg-id="Japanese" group-title="asia",tvg-logo="https://adultiptv.net/livecams/image.php?id=sc_118605242",Ashinaga_oj
+https://adultiptv.net/livecams/stream.php?id=sc_118605242
+#EXTINF:-1 tvg-id="Japanese" group-title="asia",tvg-logo="https://adultiptv.net/livecams/image.php?id=sc_146631205",ManaMi-maru
+https://adultiptv.net/livecams/stream.php?id=sc_146631205
+#EXTINF:-1 tvg-id="Japanese" group-title="asia",tvg-logo="https://adultiptv.net/livecams/image.php?id=sc_142891067",Manami_xxx
+https://adultiptv.net/livecams/stream.php?id=sc_142891067
+#EXTINF:-1 tvg-id="Japanese" group-title="asia",tvg-logo="https://adultiptv.net/livecams/image.php?id=sc_151707959",miku_ch
+https://adultiptv.net/livecams/stream.php?id=sc_151707959
+#EXTINF:-1 tvg-id="Japanese" group-title="asia",tvg-logo="https://adultiptv.net/livecams/image.php?id=sc_155461673",-momopai-
+https://adultiptv.net/livecams/stream.php?id=sc_155461673
+#EXTINF:-1 tvg-id="Japanese" group-title="asia",tvg-logo="https://adultiptv.net/livecams/image.php?id=sc_161549404",mio_nyan_
+https://adultiptv.net/livecams/stream.php?id=sc_161549404
+#EXTINF:-1 tvg-id="Chinese" group-title="asia",tvg-logo="https://adultiptv.net/livecams/image.php?id=sc_98877537",Asia-Lynn
+https://adultiptv.net/livecams/stream.php?id=sc_98877537
+#EXTINF:-1 tvg-id="Chinese" group-title="asia",tvg-logo="https://adultiptv.net/livecams/image.php?id=sc_57777485“,tw_chloe
+https://adultiptv.net/livecams/stream.php?id=sc_57777485
+#EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="asia",START-085 通过墙上直径10厘米的洞，从后面插入阴道
+https://pjs22.skyearth3.xyz/22/vod2/db/2c/25nor3n2_12a3dc61f90c4742e8d478478eedff049e2fb2555fb5bf/720/v.m3u8
+#EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="asia",ATID-471 陷入 BBP 大黑阴茎的女孩松本一香
+https://pjs27.skyearth2.xyz/27/vod2/a0/44/x25d4n9k_12a3dc61f9094742e8d478478eedff049e2fb2555fb5bf/720/v.m3u8
+#EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="asia",ROYD-181 不知不觉中被一位每天来过夜的有男朋友的女性朋友所诱惑
+https://pjs25.skyearth3.xyz/25/vod2/87/06/80zm4g12_12a3dc61f90b4742e8d478478eedff049e2fb2555fb5bf/720/v.m3u8
+#EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="asia",ATID-596女老师羞得湿透了 五日市芽衣
+https://pjs22.skyearth3.xyz/22/vod2/e2/98/2edd5epk_12a3dc61f90c4742e8d478478eedff049e2fb2555fb5bf/720/v.m3u8
+#EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="asia",ATID-456我已经躲着父母三年了，还和姐姐发生了肉体关系
+https://pjs30.skyearth3.xyz/30/vod2/57/f0/68q0vx1k_12a3dc61f80e4742e8d478478eedff049e2fb2555fb5bf/720/v.m3u8
+#EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="asia",ATID-539被黑暗粉碎的新女教师松本一香
+https://pjs28.skyearth1.xyz/28/vod2/c0/a4/78pgv598_12a3dc61f9064742e8d478478eedff049e2fb2555fb5bf/720/v.m3u8
+#EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="asia",PFES-076 上班前、休息时、加班时，我讨厌的老板会玩弄我的闷裤袜，让精液在我体内（白领美宇）
+https://pjs27.skyearth3.xyz/27/vod2/73/c6/80zzqym2_12a3dc61f9094742e8d478478eedff049e2fb2555fb5bf/720/v.m3u8
+#EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="asia",ADN-564 我不断地给儿子的妻子注射春药，不让她发现，让她已经成为性感带的身体因兴奋和高潮而疯狂。 - - 白峰美宇
+https://pjs25.skyearth1.xyz/25/vod2/7b/22/80zznjr2_12a3dc61f90b4742e8d478478eedff049e2fb2555fb5bf/720/v.m3u8
+#EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="asia",ADN-503 岳父舔我时的吻 Miu Shiramine
+https://pjs30.skyearth1.xyz/30/vod2/67/b1/8nzezxp8_12a3dc61f80e4742e8d478478eedff049e2fb2555fb5bf/720/v.m3u8
+#EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="asia",ADN-110原谅我... - 美丽的乳房摩擦松下纱子
+https://pjs34.skyearth1.xyz/34/vod2/00/15/z895p0g2_12a3dc61f80a4742e8d478478eedff049e2fb2555fb5bf/720/v.m3u8
+#EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="asia",PRED-483美腿CA被粘老头摔倒...训练飞行到肉小便池Miu Shiramine
+https://pjs23.skyearth1.xyz/23/vod2/d2/f5/0kze4z9k_12a3dc61f90d4742e8d478478eedff049e2fb2555fb5bf/720/v.m3u8
+#EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="asia",ADN-445 明天，老婆产完回家了…… - 两个月的阴道射精记录，直到女上司怀孕。三宫椿
+https://pjs34.skyearth1.xyz/34/vod2/d8/6f/68q5qj68_12a3dc61f80a4742e8d478478eedff049e2fb2555fb5bf/720/v.m3u8
+#EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="asia",ADN-428 你的妻子……可以借我一晚吗？ - ——夏目斋春
+https://pjs28.skyearth3.xyz/28/vod2/c6/7d/zkgzjyd2_12a3dc61f9064742e8d478478eedff049e2fb2555fb5bf/720/v.m3u8
+#EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="asia",ADN-387 已婚妇女继续被父亲性骚扰，父亲恨她，直到变成“我已经崩溃了
+https://pjs30.skyearth3.xyz/30/vod2/5f/01/0kzx0w2w_12a3dc61f80e4742e8d478478eedff049e2fb2555fb5bf/720/v.m3u8
+#EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="asia",RBD-650 性骚扰电影院 8 在这样的地方...但是如果我是...！ - ——夏目斋春
+https://pjs22.skyearth1.xyz/22/vod2/a5/33/jkxqp508_12a3dc61f90c4742e8d478478eedff049e2fb2555fb5bf/1080/v.m3u8
+#EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="asia",ADN-221 禁忌的夜间爬行按摩 岳父的欲望 夏目西春
+https://pjs21.skyearth2.xyz/21/vod2/f7/d4/p8j107z8_12a3dc61f90f4742e8d478478eedff049e2fb2555fb5bf/720/v.m3u8
+#EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="asia",ADN-131 我想迷住你 夏目西春
+https://pjs23.skyearth3.xyz/23/vod2/d9/ce/0kzowl92_12a3dc61f90d4742e8d478478eedff049e2fb2555fb5bf/720/v.m3u8
+#EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="asia",SSPD-161 在排卵日和我丈夫做爱后，我的邻居给我进行阴道射精...... - Natsume Saiharu
+https://pjs22.skyearth2.xyz/22/vod2/fb/86/d8w7zmd2_12a3dc61f90c4742e8d478478eedff049e2fb2555fb5bf/720/v.m3u8
+#EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="asia",ADN-148 不忠的等级关系 松下纱荣子
+https://pjs30.skyearth3.xyz/30/vod2/45/f8/z89zr4g2_12a3dc61f80e4742e8d478478eedff049e2fb2555fb5bf/480/v.m3u8
+#EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="asia",ADN-143 阁楼的秘密 夏目西春
+https://pjs25.skyearth1.xyz/25/vod2/ab/4e/j2dlevxk_12a3dc61f90b4742e8d478478eedff049e2fb2555fb5bf/480/v.m3u8
+#EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="asia",ADN-473 我的岳父性欲很强，他服用了勃起药，变得极其不忠，继续侵犯他儿子的妻子。 - - 二宫光
+https://pjs32.skyearth2.xyz/32/vod2/2d/ba/y807gd1k_12a3dc61f80c4742e8d478478eedff049e2fb2555fb5bf/720/v.m3u8
+#EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="asia",RBD-352性骚扰电影院2 在这样的地方...但是如果我是...！ - ——西野翔
+https://pjs23.skyearth3.xyz/23/vod2/ca/04/p8jn770k_12a3dc61f90d4742e8d478478eedff049e2fb2555fb5bf/720/v.m3u8
+#EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="asia",RBD-423 这种地方的性骚扰餐厅……但是如果我是……！ - ——织田真子
+https://pjs31.skyearth3.xyz/31/vod2/ae/09/3k41npgk_12a3dc61f80f4742e8d478478eedff049e2fb2555fb5bf/720/v.m3u8
+#EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="asia",RBD-778 性骚扰电影院 10 在这样的地方......但如果我是......！ - - 新山沙耶
+https://pjs32.skyearth2.xyz/32/vod2/0a/74/68qeexz8_12a3dc61f80c4742e8d478478eedff049e2fb2555fb5bf/720/v.m3u8
+#EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="asia",RBD-882 性骚扰电影院 11 在这样的地方......但如果我是......！ - - 幸哉咲
+https://pjs23.skyearth2.xyz/23/vod2/c3/fa/72ez4oq2_12a3dc61f90d4742e8d478478eedff049e2fb2555fb5bf/480/v.m3u8
+#EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="asia",RBD-535 性骚扰电影院 6 在这样的地方...但是如果我是...！ - ——须王由希子
+https://pjs34.skyearth2.xyz/34/vod2/e5/7c/12vv50r2_12a3dc61f80a4742e8d478478eedff049e2fb2555fb5bf/1080/v.m3u8
+#EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="asia",RBD-650 性骚扰电影院 8 在这样的地方...但是如果我是...！ - ——夏目斋春
+https://pjs22.skyearth1.xyz/22/vod2/a5/33/jkxqp508_12a3dc61f90c4742e8d478478eedff049e2fb2555fb5bf/1080/v.m3u8
+#EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="asia",RBD-690 性骚扰电影院9 在这样的地方...但是如果我是...！ - ——石原里奈
+https://pjs32.skyearth3.xyz/32/vod2/58/4b/n87e4xpk_12a3dc61f80c4742e8d478478eedff049e2fb2555fb5bf/1080/v.m3u8
+#EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="asia",RBD-544 性骚扰电影院 7 在这样的地方...但如果我是...！ - ——瞳亮
+https://pjs22.skyearth1.xyz/22/vod2/65/58/n87xdrg2_12a3dc61f90c4742e8d478478eedff049e2fb2555fb5bf/720/v.m3u8
+#EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="asia",NHDTB-821 变态按摩师对新按摩师的猥亵指导～背后性骚扰、潮吹、第一次服务顾客紧张的性交～
+https://pjs34.skyearth2.xyz/34/vod2/a4/f2/x256zn98_12a3dc61f80a4742e8d478478eedff049e2fb2555fb5bf/720/v.m3u8
+#EXTINF:-1 tvg-id="Japan" tvg-logo="" group-title="asia",FSET-722 我用力地插入了一个拥有美味腰部和美丽屁股的女人。
+https://pjs26.skyearth1.xyz/26/vod2/e8/48/ko00x0mk_12a3dc61f9084742e8d478478eedff049e2fb2555fb5bf/720/v.m3u8
+#EXTINF:-1 tvg-id="Japan" tvg-logo="https://static.njav.tv/images/d/bd/ssni-734/thumb_h.jpg" group-title="asia",SSNI-734 台风夜 嘉纳由良
+https://pjs22.skyearth1.xyz/22/vod2/18/78/p86p9gjk_12a3dc61f90c4742e8d478478eedff049e2fb2555fb5bf/720/v.m3u8
+#EXTINF:-1 tvg-id="Japan" tvg-logo="https://static.njav.tv/images/d/bd/avop-325/thumb_h.jpg" group-title="asia",AVOP-325 一名女高中生发生性关系时被发现，并暴露了她的丰满屁股被操。
+https://pjs23.skyearth2.xyz/23/vod2/a1/09/2y776jv2_12a3dc61f90d4742e8d478478eedff049e2fb2555fb5bf/720/v.m3u8
+#EXTINF:-1 tvg-id="Japan" tvg-logo="https://static.njav.tv/images/d/bd/ssis-872/thumb_h.jpg" group-title="asia",SSIS-872 我的初恋，干净又可爱的社团前辈，却是一个想要做爱的隐藏婊子！ - ——鹿野由良
+https://pjs28.skyearth2.xyz/28/vod2/44/a7/j2dze098_12a3dc61f9064742e8d478478eedff049e2fb2555fb5bf/720/v.m3u8
+#EXTINF:-1 tvg-id="Japan" tvg-logo="https://static.njav.tv/images/d/bd/sone-025/thumb_h.jpg" group-title="asia",SONE-025嘉纳由良每天一边与天真的孙女发生性关系，一边领取福利金，享受着悠闲的生活。
+https://pjs24.skyearth1.xyz/24/vod2/3c/df/8700z3m2_12a3dc61f90a4742e8d478478eedff049e2fb2555fb5bf/720/v.m3u8
+#EXTINF:-1 tvg-id="Japan" tvg-logo="https://static.njav.tv/images/d/bd/ssis-616/thumb_h.jpg" group-title="asia",SSIS-616遭遇台风袭击回家的娃娃脸保姆，与多次被鱿鱼快感的老人发生性关系 鹿野由良
+https://pjs27.skyearth2.xyz/27/vod2/19/bd/98nlxyqk_12a3dc61f9094742e8d478478eedff049e2fb2555fb5bf/720/v.m3u8
+#EXTINF:-1 tvg-id="Japan" tvg-logo="https://static.njav.tv/images/d/bd/ssis-910/thumb_h.jpg" group-title="asia",SSIS-910Yura Kano是一位听话、不自信的Z世代实习生，在要求工作机会时遭受了极端的性骚扰。
+https://pjs27.skyearth1.xyz/27/vod2/be/23/8j559qzk_12a3dc61f9094742e8d478478eedff049e2fb2555fb5bf/720/v.m3u8
+#EXTINF:-1 tvg-id="Japan" tvg-logo="https://static.njav.tv/images/d/bd/ssni-679/thumb_h.jpg" group-title="asia",SSNI-679 我的女朋友晚上在我最好的朋友旁边，但我假装睡着了——嘉纳由良
+https://pjs24.skyearth2.xyz/24/vod2/32/9f/zkg1qd0k_12a3dc61f90a4742e8d478478eedff049e2fb2555fb5bf/720/v.m3u8
+#EXTINF:-1 tvg-id="Japan" tvg-logo="https://static.njav.tv/images/d/bd/fset-833/thumb_h.jpg" group-title="asia",FSET-833 回到新娘娘家，与新娘妹妹进行了反转3P
+https://pjs20.skyearth1.xyz/20/vod2/14/47/y23d93r8_12a3dc61f90e4742e8d478478eedff049e2fb2555fb5bf/720/v.m3u8
+#EXTINF:-1 tvg-id="AdultIPTVnetAsian.us" tvg-logo="https://i.imgur.com/mBJyTOp.png" group-title="asia",Asian
+https://cdn.adultiptv.net/asian.m3u8
+http://live.redtraffic.net/asian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pornstar" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="Adult",Pornstar
+http://live.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Teen" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="Adult",Teen
+http://live.adultiptv.net/teen.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rough" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="Adult",Rough
+http://live.adultiptv.net/rough.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="asia",Asian
+http://live.adultiptv.net/asian.m3u8
+#EXTINF:-1 tvg-id="MyCamTVAsian.cy" tvg-logo="https://i.imgur.com/FBSodo6.png" group-title="asia",MyCamTV Asian (720p)
+https://live.mycamtv.com/asian.m3u8
+#EXTINF:-1 tvg-id="MyCamTVTeen.cy" tvg-logo="https://i.imgur.com/sli5irt.png" group-title="Adult",MyCamTV Teen (720p)
+http://live.mycamtv.com/teen.m3u8
+#EXTINF:-1 tvg-id="MyCamTVWhite.cy" tvg-logo="https://cdn.strpst.com/assets/icons/headerlogo_mycamtv.com.png" group-title="Adult",MyCamTV White (720p)
+https://live.mycamtv.com/white.m3u8
+#EXTINF:-1 tvg-id="MyCamTVYoung.cy" tvg-logo="https://i.imgur.com/sli5irt.png" group-title="Adult",MyCamTV Young (720p)
+http://live.mycamtv.com/young.m3u8
+#EXTINF:-1 tvg-id="Babestation24.de" tvg-logo="https://i.imgur.com/Y6uU6fP.png" group-title="Adult",Babestation24
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8
+#EXTINF:-1 tvg-id="JasminTV.lu" tvg-logo="https://i.imgur.com/3VdU9r0.png" group-title="Adult",Jasmin TV (1080p)
+http://109.71.163.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="MiamiTV.us" tvg-logo="https://i.imgur.com/esK4CBZ.png" group-title="Adult",Miami TV
+https://59ec5453559f0.streamlock.net/miamitv/smil:miamitv/playlist.m3u8
+#EXTINF:-1 tvg-id="JennyLive.us" tvg-logo="https://i.imgur.com/3vsBZI3.png" group-title="Adult",Miami TV Jenny Live [Not 24/7]
+https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
+#EXTINF:-1 tvg-id="MiamiTVMexico.us" tvg-logo="https://i.imgur.com/MpQtdTb.png" group-title="Adult",Miami TV México [Not 24/7]
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
+#EXTINF:-1 tvg-id="XpandedTV.uk" tvg-logo="https://i.imgur.com/p4RR9GM.png" group-title="Adult" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",Xpanded TV Studio Cam
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+https://vod2t.xpanded.com/x3tv2/index_wlan.m3u8
+#EXTINF:-1 tvg-id="JennyLive.us" tvg-logo="https://i.imgur.com/3vsBZI3.png" group-title="Adult",Miami TV Jenny Live (720p) [Not 24/7]
+https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
+#EXTINF:-1 tvg-id="MiamiTVMexico.us" tvg-logo="https://i.imgur.com/MpQtdTb.png" group-title="Adult",Miami TV Mexico (1080p)
+https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexico/playlist.m3u8
+#EXTINF:-1 tvg-id="PlayboyTVLatinAmericaHD.us" tvg-logo="https://i.imgur.com/B3DMUM9.png" group-title="Adult",Playboy TV Latin America (1080p)
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
+#EXTINF:-1 tvg-id="PrivateTVHD.nl" tvg-logo="https://i.imgur.com/89E8Ev2.png" group-title="Adult",Private TV HD (720p)
+https://cdn-main.lolokoko.tv/Private.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RedlightHD.nl" tvg-logo="https://i.imgur.com/g0QF5IG.png" group-title="Adult",Redlight HD (720p)
+https://cdn-main.lolokoko.tv/REDLIGHT.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="Silk.ru" tvg-logo="https://i.imgur.com/pbLpTrt.png" group-title="Adult",Silk (1080p) [Geo-blocked]
+http://live-1.otcnet.ru/shelkhdmts/playlist.m3u8
+#EXTINF:-1 tvg-id="VisitXTV.nl" tvg-logo="https://i.imgur.com/avtSqUu.png" group-title="Adult",Visit-X TV (720p)
+https://stream.visit-x.tv/vxtv/live/playlist.m3u8
+#EXTINF:0 group-title="asia" tvg-id="3194" tvg-logo="http://epg.it999.ru/img/3194.png" tvg-rec="0",Japan HDV
+http://he11o.akadatel.com/iptv/NSZN5B863V6Z9K/6225/index.m3u8
+#EXTINF:0 group-title="asia" tvg-id="3199" tvg-logo="http://epg.it999.ru/img/3199.png" tvg-rec="0",Little Asians HD
+http://he11o.akadatel.com/iptv/NSZN5B863V6Z9K/6230/index.m3u8

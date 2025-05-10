@@ -1,0 +1,114 @@
+name: Update-m3u
+
+on:
+  watch:
+    types: [started]
+  schedule:
+    - cron: 0,30 * * * *
+  workflow_dispatch:
+
+env:
+  TZ: Asia/Shanghai
+
+jobs:
+  Update:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v3
+
+    - name: GetTime
+      id: date
+      run: echo "::set-output name=date::$(date +'%Y-%m-%d %H:%M:%S CST')"
+
+    - name: Update
+      run: |
+        # 央视源
+        rm -f /tmp/CCTV.m3u && wget https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u -O /tmp/CCTV.m3u
+        sed -i -n '/央视频道/,+1p' /tmp/CCTV.m3u
+        sed -i '1i #EXTM3U' /tmp/CCTV.m3u
+        sed -i '/^\s*$/d' /tmp/CCTV.m3u
+
+        # 卫视源
+        rm -f /tmp/CNTV.m3u && touch /tmp/CNTV.m3u
+        wget https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u -O /tmp/CNTV1.m3u && sed -i -n '/卫视频道/,+1p' /tmp/CNTV1.m3u
+        wget https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u -O /tmp/CNTV2.m3u && sed -i -n '/NewTV系列/,+1p' /tmp/CNTV2.m3u
+        wget https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u -O /tmp/CNTV3.m3u && sed -i -n '/超清频道/,+1p' /tmp/CNTV3.m3u
+        cat /tmp/CNTV1.m3u >> /tmp/CNTV.m3u
+        cat /tmp/CNTV2.m3u >> /tmp/CNTV.m3u
+        cat /tmp/CNTV3.m3u >> /tmp/CNTV.m3u
+        rm -f /tmp/CNTV1.m3u /tmp/CNTV2.m3u /tmp/CNTV3.m3u
+        sed -i '1i #EXTM3U' /tmp/CNTV.m3u
+        sed -i '/^\s*$/d' /tmp/CNTV.m3u
+
+        # 成人源
+        rm -f /tmp/Adult.m3u 
+        #wget http://adultiptv.net/chs.m3u -O /tmp/Adult.m3u
+        #sed -i 's/XXX/成人频道/' /tmp/Adult.m3u
+        #sed -i 's/AdultIPTV.net //g' /tmp/Adult.m3u
+        wget https://met.pages.dev/static/iptv/av.m3u -O /tmp/AdultVideo.m3u
+        # wget https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u -O AdultVideo.txt
+        # sed -i -n '/日本/,+1p' AdultVideo.txt
+        # sed -i 's/日本/成人视频/' AdultVideo.txt
+        # echo '' >> Adult.m3u && cat AdultVideo.txt >> Adult.m3u
+        cat /tmp/AdultVideo.m3u >> /tmp/Adult.m3u
+        # rm -f AdultVideo.txt
+        rm -f /tmp/AdultVideo.m3u
+        sed -i '/^\s*$/d' /tmp/Adult.m3u
+
+        # 港澳台
+        rm -f /tmp/GAT.m3u && wget https://raw.githubusercontent.com/Mitchll1214/m3u/main/港澳台.m3u -O /tmp/GAT.m3u && sed -i -n '/港澳台/{N;p;}' /tmp/GAT.m3u
+        sed -i '1i #EXTM3U' /tmp/GAT.m3u
+        sed -i '/^\s*$/d' /tmp/GAT.m3u
+
+        #4K源
+        rm -f /tmp/4k.m3u && wget https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u -O /tmp/4k.m3u
+        rm -f /tmp/4k.txt && wget https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u -O /tmp/4k.txt
+        sed -i -n '/4K/,+1p' /tmp/4k.m3u
+        sed -i -n '/4k/,+1p' /tmp/4k.txt
+        echo '' >> /tmp/4k.m3u && cat /tmp/4k.txt >> /tmp/4k.m3u
+        rm -f /tmp/4k.txt
+        rm -f /tmp/4K.txt
+        sed -i '1i #EXTM3U' /tmp/4k.m3u
+        sed -i '/^\s*$/d' /tmp/4k.m3u
+
+        # 整合源（无成人）
+        rm -f IPTV.m3u && touch IPTV.m3u
+        cat /tmp/CCTV.m3u >> IPTV.m3u
+        cat /tmp/CNTV.m3u >> IPTV.m3u
+        cat /tmp/GAT.m3u >> IPTV.m3u
+        cat /tmp/4k.m3u >> IPTV.m3u
+        # cat Adult.m3u >> IPTV.m3u
+        # 移除成人整合源
+        sed -i '/#EXTM3U/d' IPTV.m3u
+        sed -i '1i #EXTM3U' IPTV.m3u
+        sed -i '/^\s*$/d' IPTV.m3u
+
+        # 整合源
+        rm -f IPTV-all.m3u && touch IPTV-all.m3u
+        cat /tmp/CCTV.m3u >> IPTV-all.m3u
+        cat /tmp/CNTV.m3u >> IPTV-all.m3u
+        cat /tmp/GAT.m3u >> IPTV-all.m3u
+        cat /tmp/4k.m3u >> IPTV.m3u
+        cat /tmp/Adult.m3u >> IPTV-all.m3u
+        sed -i '/#EXTM3U/d' IPTV-all.m3u
+        sed -i '1i #EXTM3U' IPTV-all.m3u
+        sed -i '/^\s*$/d' IPTV-all.m3u
+        
+        # 节目源
+        rm -f EPG.xml && wget https://epg.112114.xyz/pp.xml -O EPG.xml
+        # readme.md
+        echo "Auto Update IPTV in ${{ steps.date.outputs.date }} ，[最新地址为](https://raw.githubusercontent.com/yyqyu/m3u/main/IPTV.m3u)" > README.md
+
+    - name: Clean
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git checkout --orphan latest_branch
+        git add -A
+        git commit -am "${{ steps.date.outputs.date }}"
+        git branch -D main
+        git branch -m main
+
+    - name: Push
+      run: git push -f origin main
